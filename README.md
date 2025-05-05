@@ -1,5 +1,6 @@
 # Workflow
 
+![VCF Matrix Diagram](images/workflow.png)
 ---
 
 ## 📥 Input
