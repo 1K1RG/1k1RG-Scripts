@@ -1,12 +1,15 @@
 # Workflow
 
-![VCF Matrix Diagram](images/workflow.png)
+<p align="center">
+<img src="images/workflow.png" alt="VCF Matrix Diagram" style="width: 50%;"/>
+</p>
 ---
 
 ## 📥 Input
 
 - `VCF` file: `169.vcf.gz`
 
+<img src="images/input.png" alt="input" style="width: 70%;"/>
 ---
 
 ## 🔄 VCF to Matrix
@@ -40,6 +43,8 @@ bcftools view -o - -h $invcf | \
 - `sample_list.txt`
 - `mat_vcf.txt`
 
+<img src="images/output.png" alt="output" style="width: 70%;"/>
+
 ---
 
 ## 🔄 Matrix to HDF5
@@ -59,5 +64,11 @@ Example:
 ### 📤 Output File
 
 - `169_transp.h5`
+
+<img src="images/hdf5.png" alt="hdf5" style="width: 60%;"/>
+
+<p align="center">
+<img src="images/hdf5Ui.png" alt="hdf5" style="width: 90%;"/>
+</p>
 
 ---
