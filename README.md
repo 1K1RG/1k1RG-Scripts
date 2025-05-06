@@ -67,7 +67,7 @@ Example:
 
 <img src="images/vmat.png" alt="hdf5" style="width: 60%;"/>
 
-<p align="center">
+
 <img src="images/hdf5Ui.png" alt="hdf5" style="width: 90%;"/>
 </p>
 
