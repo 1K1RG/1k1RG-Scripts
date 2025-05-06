@@ -9,7 +9,7 @@
 
 - `VCF` file: `169.vcf.gz`
 
-<img src="images/input.png" alt="input" style="width: 70%;"/>
+<img src="images/Input.png" alt="input" style="width: 70%;"/>
 ---
 
 ## 🔄 VCF to Matrix
@@ -43,7 +43,7 @@ bcftools view -o - -h $invcf | \
 - `sample_list.txt`
 - `mat_vcf.txt`
 
-<img src="images/output.png" alt="output" style="width: 70%;"/>
+<img src="images/Output.png" alt="output" style="width: 70%;"/>
 
 ---
 
@@ -65,7 +65,7 @@ Example:
 
 - `169_transp.h5`
 
-<img src="images/hdf5.png" alt="hdf5" style="width: 60%;"/>
+<img src="images/vmat.png" alt="hdf5" style="width: 60%;"/>
 
 <p align="center">
 <img src="images/hdf5Ui.png" alt="hdf5" style="width: 90%;"/>
