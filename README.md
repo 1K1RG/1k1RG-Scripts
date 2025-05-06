@@ -43,7 +43,7 @@ bcftools view -o - -h $invcf | \
 - `sample_list.txt`
 - `mat_vcf.txt`
 
-<img src="images/Output.png" alt="output" style="width: 70%;"/>
+<img src="images/Output .png" alt="output" style="width: 70%;"/>
 
 ---
 
