@@ -9,7 +9,7 @@
 
 - `VCF` file: `169.vcf.gz`
 
-<img src="images/Input.png" alt="input" style="width: 70%;"/>
+<img src="images/Input .png" alt="input" style="width: 70%;"/>
 ---
 
 ## 🔄 VCF to Matrix
