@@ -58,7 +58,7 @@ bcftools view -o - -h $invcf | \
 Example:
 
 ```bash
-./make_HDF_dataset.sh /home/riza.pasco/scratch3/Mummer/Full/HDF5/1KRG/Elite/169 169
+./make_HDF_dataset.sh /home/scratch3/169 169
 ```
 
 ### 📤 Output File
