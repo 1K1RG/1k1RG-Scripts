@@ -22,11 +22,11 @@ if [[ ! -f "$POS_FILE" ]]; then
 fi
 
 # ---- Configuration ----
-DB_NAME="1k1"
-DB_USER="postgres"
-DB_HOST="192.168.15.34"
-DB_PORT="5432"
-DB_PASSWORD="user12345"
+DB_NAME="<INSERT DB_NAME>"
+DB_USER="<INSERT USERNAME>"
+DB_HOST="<INSERT URL>"
+DB_PORT="<INSERT PORT>"
+DB_PASSWORD="<INSERT PASSWORD>"
 CSV_DIR="/path/to/csv/files"
 LOG_FILE="upload_log.txt"
 
